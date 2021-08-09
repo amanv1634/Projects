@@ -1,1 +1,0 @@
-s folder has all the React Projects
