@@ -29,9 +29,9 @@
   
   .expense-item__price {
     font-size: 1rem;
-    font-weight: bold;
+    font-weight: normal;
     color: white;
-    background-color: #ffffff;
+    background-color: #fff2f200;
     border: 1px solid rgb(2, 2, 2);
     padding: 0.5rem;
     border-radius: 12px;
